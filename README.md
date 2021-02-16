@@ -1,2 +1,2 @@
-# pgAdmin2
+# pgAdminLite
  PostgresSQL Admin
